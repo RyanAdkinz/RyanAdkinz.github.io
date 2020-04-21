@@ -1,8 +1,11 @@
 h2 {
     color: darkblue;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
+    
 }
-
+    div {
+        border: 2px solid white;
+    }
 
     body {
         background-color: rgb(89, 212, 228);
