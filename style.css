@@ -4,7 +4,15 @@ h2 {
     
 }
     div {
-        border: 2px solid white;
+     
+        border-width: 1 px;
+        border-style: solid  rgb(89, 212, 228);
+        border-radius: 10 px;
+
+
+        box-shadow: 5px 5px 5px grey;
+
+        background-color: white;
     }
 
     body {
