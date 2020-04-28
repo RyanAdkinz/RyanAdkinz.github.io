@@ -1,14 +1,18 @@
 h2 {
     color: darkblue;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-    
+    padding: 5px;
+    padding-top: 0px;
+    margin: 0px;
+
+
 }
     div {
      
         border-width: 1 px;
         border-style: solid  rgb(89, 212, 228);
         border-radius: 10 px;
-
+        margin-bottom: 20px;
 
         box-shadow: 5px 5px 5px grey;
 
