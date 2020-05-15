@@ -27,5 +27,34 @@ h2 {
 
     #secretpuzzle{
         color: grey;
+    }
+    
+    #qs{
+    
+    color:aqua;
+    }
+    
+    #abtme{
+
+        color:cadetblue;
+    }
+       
+    #top10m{
+        color:coral;
+    }
+    #top10f{
+        color:darkcyan;
+    }
+    #places{
+        color:red;
+    }
+    #websites{
+      color: green;  
+    }
+    #colors{
+        color: teal;
+    }
+       {
+        
     
 }
